@@ -33,3 +33,7 @@ According to the task constraints, the entire code has been written in a single 
 This was done as per instructions in the provided task PDF.
 
 Additionally, markdown documentation is Mentiond in the code cells  here since the analysis was still in a trial-and-error phase I have only provided the Total code in once cell at the end of the Document . I request you to kindly excuse this, as it was not mentioned in the beginning.
+
+
+
+I have completed Task 1 and started working on Task 2. However, I noticed that the dataset download link for Task 2 (Global Superstore / sales_data.csv) is missing in the provided PDF. I kindly request you to share the correct dataset link or provide access at the earliest so that I can proceed further with the analysis. Thank you for your understanding.
