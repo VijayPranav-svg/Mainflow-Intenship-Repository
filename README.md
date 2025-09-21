@@ -14,27 +14,22 @@ This repository contains my **internship project submission** for **Data Analysi
 - [Task 4 – Task 4 Title](Task4/README.md)
 
 ## Repository Structure
-Mainflow-Internship-Repository/
-│
-├── Task1/
-│ ├── code/
-│ ├── data/
-│ └── README.md
-│
-├── Task2/
-│ ├── code/
-│ ├── data/
-│ └── README.md
-│
-├── Task3/
-│ ├── ...
-│ └── README.md
-│
-├── Task4/
-│ ├── ...
-│ └── README.md
-│
-└── README.md ← Main overview
+ Mainflow-Internship-Repository/
+  - Task1/
+    - code/
+    - data/
+    - README.md
+  - Task2/
+    - code/
+    - data/
+    - README.md
+  - Task3/
+    - ...
+    - README.md
+  - Task4/
+    - ...
+    - README.md
+  - README.md (Main overview)
 
 ##  Current Status
 -  **Task 1 completed** successfully.  
