@@ -6,3 +6,8 @@ All The Codes and  Scripts Regarding the Internship Tasks  are placed in this re
 
 This repository contains my **internship project submission** for **Data Analysis and Data Science **.  
 
+
+
+## 📌 Current Status
+- ✅ **Task 1 completed** successfully.  
+- 🚧 **Task 2 in completed** – however, the dataset download link (Global Superstore / `sales_data.csv`) is missing from the provided PDF.  
