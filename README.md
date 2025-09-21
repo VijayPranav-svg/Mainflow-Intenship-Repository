@@ -7,6 +7,34 @@ All The Codes and  Scripts Regarding the Internship Tasks  are placed in this re
 This repository contains my **internship project submission** for **Data Analysis and Data Science **.  
 
 
+## Tasks
+- [Task 1 – Data Analysis with Python](Task1/README.md)
+- [Task 2 – Global Superstore Analysis](Task2/README.md)
+- [Task 3 – Task 3 Title](Task3/README.md)
+- [Task 4 – Task 4 Title](Task4/README.md)
+
+## Repository Structure
+Mainflow-Internship-Repository/
+│
+├── Task1/
+│ ├── code/
+│ ├── data/
+│ └── README.md
+│
+├── Task2/
+│ ├── code/
+│ ├── data/
+│ └── README.md
+│
+├── Task3/
+│ ├── ...
+│ └── README.md
+│
+├── Task4/
+│ ├── ...
+│ └── README.md
+│
+└── README.md ← Main overview
 
 ##  Current Status
 -  **Task 1 completed** successfully.  
