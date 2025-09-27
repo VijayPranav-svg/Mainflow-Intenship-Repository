@@ -8,7 +8,7 @@ This repository contains my **internship project submission** for **Data Analysi
 
 
 ## Tasks
-- [Task 1 – Data Analysis with Python](Task1/README.md)
+- [Task 1 – Data Analysis with Python]([Task1/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task1))
 - [Task 2 – Global Superstore Analysis](Task2/README.md)
 - [Task 3 – Task 3 Title](Task3/README.md)
 - [Task 4 – Task 4 Title](Task4/README.md)
