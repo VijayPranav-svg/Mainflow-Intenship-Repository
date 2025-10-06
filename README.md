@@ -80,7 +80,7 @@ A **Word file explanation** of this change is attached in the Task 2 folder.
 
 ## Tasks
 - [Task 1 – Data Analysis with Python]([Task1/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task1))
-- [Task 2 – Global Superstore Analysis](Task2/README.md)
+- [Task 2 – Global Superstore Analysis]([Task2/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task2))
 - [Task 3 – Customer Segmentation using K-Means Clustering]([Task3/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task3))
 - [Task 4 – Task 4 Title](Task4/README.md)
 
