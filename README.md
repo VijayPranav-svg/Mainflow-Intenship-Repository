@@ -78,11 +78,52 @@ A **Word file explanation** of this change is attached in the Task 2 folder.
 
 **Status:**  *Completed successfully with full visual and analytical report*
 
+
+### [Task 4 – Regression Analysis (House Price Prediction)](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task4)
+
+**Objective:** Build a regression model to predict house prices using linear regression, following Task 4: Regression Analysis instructions.
+
+**Datasets Used:**
+1. 🏡 **California Housing Dataset**  
+   - Predicts `median_house_value` using attributes like `median_income`, `total_rooms`, `households`, and `ocean_proximity`.
+2. 🏠 **Ames Housing Dataset**  
+   - Predicts `SalePrice` from 82 features such as `Overall Qual`, `Gr Liv Area`, `Garage Cars`, and `Total Bsmt SF`.
+
+**Key Steps Performed:**
+- Loaded and explored datasets (shape, dtypes, summary, duplicates).  
+- Imputed missing values using median/mode.  
+- Visualized target distribution and numeric outliers (boxplots).  
+- Scaled numeric data with `StandardScaler` and encoded categorical data with `OneHotEncoder`.  
+- Generated correlation heatmaps to identify strong predictors.  
+- Split data into 80 % train / 20 % test sets.  
+- Trained `LinearRegression` model via `Pipeline`.  
+- Evaluated using **RMSE** and **R²** metrics.  
+- Extracted feature importance coefficients.  
+- Produced visualizations for Actual vs Predicted values.
+
+**Highlights:**
+- **California Housing:**  
+  - `median_income` shows the strongest positive correlation with house value.  
+  - Achieved R² ≈ 0.76.  
+- **Ames Housing:**  
+  - `Overall Qual` (0.80) and `Gr Liv Area` (0.71) are top predictors.  
+  - Achieved R² ≈ 0.82 with RMSE ≈ 35 000.  
+- Outliers identified but retained to reflect real market variance.
+
+**Visuals Included:**
+- SalePrice / Median Value distribution  
+- Boxplots for outlier detection  
+- Correlation heatmaps  
+- Actual vs Predicted scatter plots  
+
+**Status:** *Completed for both datasets with full analysis and evaluation.*
+
+
 ## Tasks
 - [Task 1 – Data Analysis with Python]([Task1/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task1))
 - [Task 2 – Global Superstore Analysis]([Task2/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task2))
 - [Task 3 – Customer Segmentation using K-Means Clustering]([Task3/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task3))
-- [Task 4 – Task 4 Title](Task4/README.md)
+- [Task 4 – Task 4 Title]([Task4/README.md](https://github.com/VijayPranav-svg/Mainflow-Intenship-Repository/tree/main/MainFlow%20Technologies/Task4))
 
 ## Repository Structure
  Mainflow-Internship-Repository/
@@ -106,6 +147,7 @@ A **Word file explanation** of this change is attached in the Task 2 folder.
 -  **Task 1 completed** successfully.  
 -  **Task 2 in completed** – however, the dataset download link (Global Superstore / `sales_data.csv`) is missing from the provided PDF.
 -  **Task 3 in completed**  Customer Segmentation using K-Means But used My own Datasets as they are no Datasets attached with the Task Pdf Provided
+-   **Task 4 – Completed using two datasets (California & Ames Housing)**  As Datasets were not provided in the task pdf used my own datasets downloaded from internet for the task
 -  After raising the issue, I was instructed by the internship mentor to choose my own dataset from Google and proceed with the analysis.
 
 Therefore, due to the lack of the official dataset and with permission from the mentor, I have downloaded a dataset from Google and used it for Task 2.
